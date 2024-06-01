@@ -46,7 +46,7 @@ Distributed under the Apache-2.0 License. See [LICENSE](link/to/LICENSE) for mor
 
 LinkedIn Id – https://www.linkedin.com/in/hridaysheth/ 
 
-Project Link: [https://github.com/atcults/OpenCyberSecurityPlatform](https://github.com/atcults/OpenCyberSecurityPlatform)
+Project Link: [(https://github.com/atcults/OpenCyberSecurityPlatform)](https://github.com/atcults/Open-Cyber-Security-Platform)
 
 ## Acknowledgements
 
